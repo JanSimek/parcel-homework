@@ -42,6 +42,14 @@ ERROR: Weight cannot be negative
 
 Updated list will be reprinted to the console periodically every minute.
 
+### Tests
+
+To run tests using Surefire:
+
+```shell
+mvn clean test
+```
+
 ## Notes
 
 This software was developed and tested on Arch linux using OpenJDK 14. However, it should run fine on any other platform with Java 8+.
