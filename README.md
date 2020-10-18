@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/2973ed5a-e2bb-4e2f-9068-24e3b94b1088)](https://codebeat.co/projects/github-com-jansimek-parcel-homework-master) 
+
 # Parcel-parsing homework
 
 Calculates and prints total weights of packages and (optionally) their shipping fees. 
