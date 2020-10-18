@@ -1,4 +1,4 @@
-[![codebeat badge](https://codebeat.co/badges/2973ed5a-e2bb-4e2f-9068-24e3b94b1088)](https://codebeat.co/projects/github-com-jansimek-parcel-homework-master) 
+[![Build Actions Status](https://github.com/JanSimek/parcel-homework/workflows/Build/badge.svg)](https://github.com/{userName}/{repoName}/actions) [![codebeat badge](https://codebeat.co/badges/2973ed5a-e2bb-4e2f-9068-24e3b94b1088)](https://codebeat.co/projects/github-com-jansimek-parcel-homework-master) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=JanSimek_parcel-homework&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=JanSimek_parcel-homework) 
 
 # Parcel-parsing homework
 
