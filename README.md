@@ -50,6 +50,6 @@ To run tests using Surefire:
 mvn clean test
 ```
 
-## Notes
+## System requirements
 
-This software was developed and tested on Arch linux using OpenJDK 14. However, it should run fine on any other platform with Java 8+.
+This software was developed on Arch linux and tested on Windows using OpenJDK 11.
